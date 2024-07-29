@@ -1,4 +1,4 @@
-![security_whell](https://github.com/user-attachments/assets/2f335625-5140-4160-8d6c-977203a219f5)# GloboSec Week - Day 01
+# GloboSec Week - Day 01
 
 ## Validação de fatos e veracidade de noticias
 
@@ -74,7 +74,7 @@ Sobre software, citado o shift left e security, alocando o DevSecOps dentro de s
 
 ## Security Wheel
 [Uploading security_whell.png…]()
-
+![security_whell](https://github.com/user-attachments/assets/2f335625-5140-4160-8d6c-977203a219f5)
 
 
 
